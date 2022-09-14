@@ -1,0 +1,10 @@
+Links para baixar Python 3.0 ou superior no computador: https://www.python.org/downloads/
+
+IDE utilizada durante o curso será o VS Code, link:
+https://code.visualstudio.com/Download
+
+Primeira aula:
+
+Embora eu já conheça como funciona uma IDE e como configura-la, como PyCharm e VS Code, é sempre importante fixar cada vez mais este conhecimento
+
+Instalado e configurado o VS Code
