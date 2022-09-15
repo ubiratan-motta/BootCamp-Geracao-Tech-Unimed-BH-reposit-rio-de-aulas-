@@ -9,5 +9,8 @@ Foi incluido um arquivo com anotações pertinentes para fixar os conteudos adqu
 Aula inicial, instalando e configurando IDE 
 
 **Conhecendo a linguagem de programação**
-COnhecendo alguns recursos da linguagem Python e treinando o funcionamento destas funções
+Conhecendo alguns recursos da linguagem Python e treinando o funcionamento destas funções
+
+**Estruturas condicionais e de repetição**
+Estudo e treino das estruturas condicionais do Python (if, elifm else) e as estruturas de repetição (for e while)
 
