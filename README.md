@@ -7,3 +7,7 @@ Foi incluido um arquivo com anotações pertinentes para fixar os conteudos adqu
 
 **Ambiente de Desenvolvimento e Primeiros Passos em Python**
 Aula inicial, instalando e configurando IDE 
+
+**Conhecendo a linguagem de programação**
+COnhecendo alguns recursos da linguagem Python e treinando o funcionamento destas funções
+
