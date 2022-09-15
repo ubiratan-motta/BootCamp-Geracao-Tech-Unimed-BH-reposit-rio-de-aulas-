@@ -1,5 +1,5 @@
-# Desafio-de-Projeto-sobre-Git-GitHub
-Repositório criado para o desafio de projeto sobre git;github da dio
+# Desafio-de-Projeto-sobre-Git-GitHub - BootCamp Geração Tech Unimed-BH
+Repositório criado para o desafio de projeto sobre git;github da dio e para postagem de todos os desafios realizados no BootCamp Geração Tech da Unimed-BH
 
 **Introdução ao Git e GitHub**
 A primeira pasta de trabalho foi sobre os estudos sobre Git e GitHub. 
@@ -14,3 +14,5 @@ Conhecendo alguns recursos da linguagem Python e treinando o funcionamento desta
 **Estruturas condicionais e de repetição**
 Estudo e treino das estruturas condicionais do Python (if, elifm else) e as estruturas de repetição (for e while)
 
+#Desafios Iniciais Py - UNIMED-BH
+Realizado o primeiro desafio de código do bootcamp, está na parta do mesmo nome do titulo, lá pode ser verificado as soluções encontradas para os problemas propostos
