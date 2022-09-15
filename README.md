@@ -1,4 +1,4 @@
-# Desafio-de-Projeto-sobre-Git-GitHub - BootCamp Geração Tech Unimed-BH
+# Desafio-de-Projeto - BootCamp Geração Tech Unimed-BH
 Repositório criado para o desafio de projeto sobre git;github da dio e para postagem de todos os desafios realizados no BootCamp Geração Tech da Unimed-BH
 
 **Introdução ao Git e GitHub**
