@@ -14,5 +14,8 @@ Conhecendo alguns recursos da linguagem Python e treinando o funcionamento desta
 **Estruturas condicionais e de repetição**
 Estudo e treino das estruturas condicionais do Python (if, elifm else) e as estruturas de repetição (for e while)
 
+**Manipulação de strings com Pyton**
+Estudo sobre maneiras de manipular strings e deixar no formato necessario para trabalho, muito util para limpeza de alguns dados que serão estudados a frente
+
 #Desafios Iniciais Py - UNIMED-BH
 Realizado o primeiro desafio de código do bootcamp, está na parta do mesmo nome do titulo, lá pode ser verificado as soluções encontradas para os problemas propostos
