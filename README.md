@@ -20,6 +20,8 @@ Estudo sobre maneiras de manipular strings e deixar no formato necessario para t
 **Dominando Funções Python**
 Estudo sobre como utilizar e manipular as funções. Arquivos de estudo disponiveis na pasta deste repositório.
 
+**Programação Orientada a Objetos POO**
+Estudo sobre como estruturar a programação orientada a objetos em Python e boas práticas para manter um código limpo e coeso
 
 # Desafios Iniciais Py - UNIMED-BH
 Realizado o primeiro desafio de código do bootcamp, está na parta do mesmo nome do titulo, lá pode ser verificado as soluções encontradas para os problemas propostos
