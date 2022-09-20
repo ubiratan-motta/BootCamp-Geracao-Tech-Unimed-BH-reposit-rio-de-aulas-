@@ -17,8 +17,13 @@ Estudo e treino das estruturas condicionais do Python (if, elifm else) e as estr
 **Manipulação de strings com Pyton**
 Estudo sobre maneiras de manipular strings e deixar no formato necessario para trabalho, muito util para limpeza de alguns dados que serão estudados a frente
 
+**Dominando Funções Python**
+Estudo sobre como utilizar e manipular as funções. Arquivos de estudo disponiveis na pasta deste repositório.
+
+
 # Desafios Iniciais Py - UNIMED-BH
 Realizado o primeiro desafio de código do bootcamp, está na parta do mesmo nome do titulo, lá pode ser verificado as soluções encontradas para os problemas propostos
 
-**Dominando Funções Python**
-Estudo sobre como utilizar e manipular as funções. Arquivos de estudo disponiveis na pasta deste repositório.
+
+# Desafio de Cófigo Intermediário
+Neste desafio foram resolvidos 3 problemas propostos usando Python, as instruções do desafio estão disponiveis na pasta do mesmo, junto com o código de cada uma das resoluções encontradas
