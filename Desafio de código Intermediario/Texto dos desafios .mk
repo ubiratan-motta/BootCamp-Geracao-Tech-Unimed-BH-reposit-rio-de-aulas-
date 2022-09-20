@@ -1,4 +1,4 @@
-# Desafio 1
+#Desafio 1
 Dada a letra N do alfabeto, nos diga qual a sua posição.
 
 # Entrada
@@ -8,7 +8,7 @@ Um único caracter N, uma letra maiúscula ('A'-'Z') do alfabeto (que contém 26
 Um único inteiro, que representa a posição da letra no alfabeto.
 
 
-# Desafio 2
+#Desafio 2
 Humberto tem um papagaio muito esperto. Quando está com as duas pernas no chão, o papagaio fala em português. Quando levanta a perna esquerda, fala em inglês. Por fim, quando levanta a direita fala em francês. Nico, amigo de Humberto, ficou fascinado com o animal. Em sua emoção perguntou: “E quando ele levanta as duas?”. Antes que Humberto pudesse responder, o papagaio gritou: “Aí eu caio, idiota!”.
 
 # Entrada
