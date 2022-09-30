@@ -4,7 +4,7 @@
 	- Projeto Conceitual: Modelo Entidade Relacionamento
 	- Projeto Lógico: Modelo Relacional
 
-#Modelando Escopo de Universidade:
+# Modelando Escopo de Universidade:
 Contexto: 
 - O foco é ensino, considerando apenas: Professor; Curso; Coordenação; Disciplina; Aluno.
 - Alunos: 
@@ -20,11 +20,11 @@ Contexto:
 - Professores:
 	Os professores que ministram as disciplinas estão associados as coordenações de seus respectivos cursos. Ex: Computação, Física, Engenharia...
 
-##Perguntas: 
+## Perguntas: 
 - Quais informações de aluno e professor guardar?
 - Qual média para aprovação?
 - Haverá restrição, ou diferentes visões?
 
 
-##Software usado para modelagem
+## Software usado para modelagem
 **MySQL Workbench**
