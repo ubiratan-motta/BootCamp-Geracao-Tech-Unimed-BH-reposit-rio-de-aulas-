@@ -4,7 +4,7 @@
 	- Projeto Conceitual: Modelo Entidade Relacionamento
 	- Projeto Lógico: Modelo Relacional
 
-#Modelando Ordem de Serviço:
+# Modelando Ordem de Serviço:
 Contexto: 
 - Dentro de uma empresa os clientes demandam ao helpdesk algumas ações
 - Essas ações são convertidas em ordem de serviço
@@ -18,5 +18,5 @@ Entidades:
 Relacionamentos:
 - Solicita, Analisa,  Executa, Arquiva
 
-##Software usado para modelagem
-** MySQL Workbench
+## Software usado para modelagem
+**MySQL Workbench**
