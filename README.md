@@ -23,6 +23,9 @@ Estudo sobre como utilizar e manipular as funções. Arquivos de estudo disponiv
 **Programação Orientada a Objetos POO**
 Estudo sobre como estruturar a programação orientada a objetos em Python e boas práticas para manter um código limpo e coeso
 
+**Projeto conceitual de Banco de Dados para uma ordem de serviço 
+Estudo de como entender os requisitos, criar um projeto conceitual do modelo entidade relacionamento, para posterior criacão do projeto lógico modelo relacional 
+
 # Desafios Iniciais Py - UNIMED-BH
 Realizado o primeiro desafio de código do bootcamp, está na parta do mesmo nome do titulo, lá pode ser verificado as soluções encontradas para os problemas propostos
 
