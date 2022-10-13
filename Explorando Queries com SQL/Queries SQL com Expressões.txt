@@ -1,0 +1,12 @@
+Queries SQL com Expressões
+
+- Operações Matematica:
+	- SELECT Fname, Lname, Salary, Salary*0.11 AS INSS FROM EMPLOYEE;
+
+- Armazenamento: dados simples
+- Resultado de expressões: dados complexos
+- Plus: utilizar alias
+
+- Concatenando Strings
+	- SELECT Fname. Minit, Lname ||',' ||','|| STATE AS Complete_name FROM EMPLOYEE;
+	- SELECT concat(Fname, ' ', Minit, ' ', Lname) AS Complete_name FROM employee;

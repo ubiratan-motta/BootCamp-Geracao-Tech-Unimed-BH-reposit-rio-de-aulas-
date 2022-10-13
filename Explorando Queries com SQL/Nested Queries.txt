@@ -1,0 +1,26 @@
+Nested Queries
+
+- Comparação por atributos buscados
+- Nested Query - Consulta aninhada
+- Consulta externa e interna
+
+SELECT 	DISTINCT Pnumber
+FROM 	PROJECT
+WHERE	Pnumber IN
+	(SELECT 	Pnumber
+	 FROM 		PROJECT, DEPARTAMENT, EMPLOYEE
+	 WHERE 		Dnum = Dnumber AND Mgr_ssn = Ssn AND
+			Lname = 'Motta')
+	OR
+	Pnumber IN
+	(SELECT 	Pno
+	 FROM 		WORKS_ON, EMPLOYEE
+	 WHERE 		Essn = Ssn AND Lname = 'Smith'); 
+
+
+	- IN - comparação com set
+	- = - comparação com unidades
+	- Retorno: tabela 
+	- ANY
+	- SOME
+	- ALL
