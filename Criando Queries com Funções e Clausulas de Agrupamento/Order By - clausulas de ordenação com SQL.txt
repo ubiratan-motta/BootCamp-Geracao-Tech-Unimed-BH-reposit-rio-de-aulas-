@@ -1,0 +1,20 @@
+# Order By - clausulas de ordenação com SQL
+
+- Clausula SQL
+- Ordenação por coluna
+- Expressões baseadas em dados 
+	- Select Fname, Lname, Dno from employee order by (Dno); 
+**Vai ordenar a resposta da querie conforme a coluna Dno**
+**Pode ser ascendente ou descedente**
+
+exemplo:
+
+SELECT idAccount
+FROM accounts
+ORDER BY amount LIMIT 5
+
+SELECT <attribute list>
+FROM <table list>
+[WHERE <condition>]
+[ORDER BY <atribute a, atributeb>]
+[DESC | ASC]
