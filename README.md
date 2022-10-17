@@ -174,3 +174,182 @@ Projeto de Banco de Dados de Oficina
 **MySQL Workbench**
 link: https://github.com/ubiratan-motta/Projeto_Conceitual_Banco_de_Dados_Oficina
 
+
+# In English
+
+# Project-Challenge - BootCamp Generation Tech Unimed-BH
+Repository created for dio's git/ithub project challenge and for posting the studies carried out during the bootcamp, for study and learning purposes, following the development
+
+## **Introduction to Git and GitHub**
+- The first workbook was about Git and GitHub studies.
+A file with relevant notes was included to fix the contents acquired in the GIT/GitHub course
+
+## **Development Environment and First Steps in Python**
+- Initial class, installing and configuring IDE
+
+## **Getting to know the programming language**
+- Knowing some features of the Python language and training the operation of these functions
+
+## **Conditional and repeating structures**
+- Study and training of Python conditional structures (if, elifm else) and repetition structures (for and while)
+
+## **String manipulation with Python**
+- Study on ways to manipulate strings and leave it in the necessary format for work, very useful for cleaning some data that will be studied ahead
+
+## **Mastering Python Functions**
+- Study on how to use and manipulate the functions. Study files available in the folder of this repository.
+
+## **Object Oriented Programming OOP**
+- Study on how to structure object-oriented programming in Python and best practices to keep code clean and cohesive
+
+## **Database conceptual design for a work order**
+- Study of how to understand the requirements, create a conceptual design of the entity relationship model, for later creation of the logical design of the relational model
+
+## **ETL Fundamentals**
+- Part of the bootcamp aimed at understanding what an ETL is, how to use it and real applications. ETL is a three-step (extract, transform, load) type of data integration used to combine data from multiple sources. It is commonly used to build a data warehouse. In this process, data is taken (extracted) from a source system, converted (transformed) into a format that can be analyzed, and stored (loaded) into a warehouse or other system. Extract, load, transform (ELT) is an alternative, albeit related, approach designed to push processing to the database in order to improve performance.
+
+## **Object Oriented Programming**
+- The study of OOP is a programming paradigm that proposes to approach the design of a system in terms of entities, objects, and relationships between these entities.
+
+## **Getting Started with SQL**
+- Part of the study is intended to learn the first basic SQL commands and how to use them in the day to day of the Data Scientist.
+
+## **Exploring Queries with SQL**
+- Database creation and exploration of commands to understand how to handle and manipulate a database through a database management system (known as DBMS)
+
+## **Creating Queries with functions and grouping clauses**
+- At this point in the studies, we sought to understand how to use more complex functions to manipulate and group specific data sets
+
+# Initial Challenges Py - UNIMED-BH
+After completing the first bootcamp code challenge, it is in the part with the same name as the title, there you can check the solutions found for the proposed problems
+
+# Intermediate Code Challenge
+In this challenge 3 proposed problems were solved using Python, the challenge instructions are available in the same folder, along with the code of each of the resolutions found
+
+# Design Challenge - Image Processing Package
+Package image processing is used to:
+
+    Processing:
+	- Histogram matching
+	- Structural similarity
+	- resize image
+
+    Useful:
+	- read image
+	- Save Image
+	- Plot image
+	- Plot result
+	- Plot histogram
+
+Available on the link: https://github.com/ubiratan-motta/Processador_de_Imagens
+
+# Project Challenge - Model to predict evolution of COVID-19
+This project consists of exploratory analysis to predict the evolution of covid-19 in Brazil, both contamination and deaths, with data collected from 01/01/2020 to 05/19/2020.
+
+Project made to deliver a code challenge at the Geração Tech Unimed_BH bootcamp
+
+## Phases:
+
+    - Import of the libraries used in the analysis;
+    - Import the database for analysis;
+    - Correction and cleaning of analysis data;
+    - Separation of important data - Country Brazil;
+    - Plotting the first graphics;
+        - Evolution of confirmed cases;
+        - New confirmed cases per day;
+        - Deaths recorded in the period;
+    - Growth rate assessment according to population growth formula (growth_rate = (present/past)**(1/n) - 1)
+    - Graph plot of growth rate
+    - Analysis and Predictions
+        - Comments
+        - Trend
+        - Seasonality
+        - noise
+    - Infection Growth Prediction using ARIMA
+    - Prediction of the moment of stabilization of COVID using the Facebook library fbprophet
+    
+    
+## Conclusions:
+    - Available on Storytelling -->> link: https://github.com/ubiratan-motta/Modelo_para_prever_evolucao_do_COVID-19_no_Brasil
+
+# Design Challenge - Conceptual database design for E-COMMERCE
+E-commerce Database Project
+
+	- Context: Requirements gathering
+	- Conceptual Project: Entity Relationship Model
+	- Logical Design: Relational Model
+
+## Modeling E-COMMERCE:
+### Product:
+	- Products are sold through a single online platform. However, these may have different sellers (third parties)
+	- Each product has a supplier
+	- One or more products can compose the order
+
+### Client:
+	- Customers can register on the site with their CPF or CNPJ
+	- The customer's address will determine the shipping cost
+	- A customer can buy more than one order. This has a grace period for returning the product.
+
+### Request:
+	- Orders are created by customers and have purchase information, address and delivery status
+	- One or more products make up the order
+	- The order can be canceled
+
+
+### Entities:
+    - Customer, Order, Product and Supplier & stock
+
+## Refinement:
+	- PJ and PF client - An account can be PJ or PF, but cannot have both information
+	- Payment - You may have registered more than one payment method
+	- Delivery - has status and restriction code
+
+## Software used for modeling
+**MySQL Workbench**
+link: https://github.com/ubiratan-motta/Projeto_Conceitual_Banco_de_Dados_E-Commerce
+
+# Project Challenge - Building a conceptual schema for a Mechanical Workshop database
+Workshop Database Project
+
+- Context: Requirements gathering
+- Conceptual Project: Entity Relationship Model
+- Logical Design: Relational Model
+
+## Modeling Workshop:
+### Order of Service:
+	- Must be linked to a type of work to be performed (repair or overhaul).
+	- Service value.
+	- Each piece will also compose the OS
+	- Number, issue date, value, status and date for completion of the works.
+	- It can be composed of several services and the same service can be contained in more than one OS.
+	- An OS can have several types of parts and a part can be present in more than one OS.
+
+### Client:
+	- The customer can have more than one vehicle
+	- Authorizes the execution of services
+
+### Vehicle:
+	- The vehicle can be repaired or have a periodic review
+
+### Team:
+	- Has a number of employees
+	- Each performs a task
+	- Fill in OS with delivery date
+	- Evaluate and Execute
+
+### Mechanics:
+	- Code, name, address and specialty
+
+### Table of Services
+	- Type of service to be performed, service value, parts used, service delivery time,
+
+### Entities:
+	- Work Order, Customer, Vehicles, Teams, Employees (mechanics), Service Table, Services, Parts Inventory
+
+## Refinement:
+	- Customer can: PJ and PF, have more than one vehicle, payment methods,
+	- Vehicle: Vehicle type (car, motorcycle, truck), owner or responsible, license plate, make, model, year of manufacture.
+
+## Software used for modeling
+**MySQL Workbench**
+link: https://github.com/ubiratan-motta/Projeto_Conceitual_Banco_de_Dados_Oficina
